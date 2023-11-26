@@ -1,0 +1,22 @@
+{
+  "name": "TTModuleA",
+  "version": "0.1.0",
+  "summary": "A short description of TTModuleA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sam/TTModuleA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sam": "chaosen.cai@bloomchic.com"
+  },
+  "source": {
+    "git": "https://github.com/Sam/TTModuleA.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TTModuleA/Classes/**/*"
+}
